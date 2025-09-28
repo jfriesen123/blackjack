@@ -6,7 +6,7 @@
 Rules:
 - Ask dealer for new cards.
 - There are an unlimited number of cards in the deck.
-- Ace equals 11 unless itll make your total go over 21, then ace eqauals 1.
+- Ace equals 11 unless it will make your total go over 21, then ace eqauals 1.
 - The dealer must take a new card if their total is less than 17.
 - Automatic loss (or draw) if your total is more than 21.
 - Play a new game or ('y') or cancel out of the program ('n')
