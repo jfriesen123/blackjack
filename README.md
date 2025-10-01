@@ -17,3 +17,6 @@ Rules:
 - While loops and if statements
 - Functions
 
+## Blackjack version 1.2
+- Uses hints from lesson to help develop a more organized program.
+- Cleaner
